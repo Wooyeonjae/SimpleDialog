@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SimpleDiaglog</string>
+    <string name="app_name">연재의 Dialog</string>
+    <string name="but_text"></string>
 </resources>
